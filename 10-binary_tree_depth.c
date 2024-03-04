@@ -3,7 +3,7 @@
 /**
  * binary_tree_depth - To get the depth of a node in a tree
  * @tree: The node to be counted
- * Return : the depth of the node in size_t
+ * Return: the depth of the node in size_t
  */
 
 size_t binary_tree_depth(const binary_tree_t *tree)
